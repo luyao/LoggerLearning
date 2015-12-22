@@ -1,9 +1,9 @@
 #编译产出
 *.suo
 *.user
-packages
-FileWatcher/bin/
-FileWatcher/obj
+WarpteleLogger/packages
+WarpteleLogger/bin/
+WarpteleLogger/obj
 
 
 # Windows image file caches
