@@ -1,3 +1,11 @@
+#编译产出
+*.suo
+*.user
+packages
+FileWatcher/bin/
+FileWatcher/obj
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
